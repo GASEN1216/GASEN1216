@@ -41,6 +41,12 @@
 - **[星露谷物语自动钓鱼脚本 (Stardew-Valley-automatic-fishing-script)](https://github.com/GASEN1216/Stardew-Valley-automatic-fishing-script)**  
   Python自动化脚本，帮你轻松完成《星露谷物语》中的钓鱼任务。
 
+
+### 📖 我的学习笔记
+
+我喜欢边学习边整理知识，欢迎访问我的 [学习笔记仓库](https://github.com/GASEN1216/studyNotes)，一起交流、进步！
+
+
 ### 📫 联系方式
 
 - **GitHub**: [GASEN1216](https://github.com/GASEN1216)
