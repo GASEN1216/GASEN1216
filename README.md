@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=你好，欢迎来到我的GitHub主页！;我是GASEN，一个热爱探索和学习的开发者。;编程语言只是工具，喜欢用它实现我脑海中的想法！" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=你好，欢迎来到我的GitHub主页！;我是GASEN，一个热爱探索和学习的开发者。;喜欢用代码实现天马行空的想法！" alt="Typing SVG" />
 </p>
 
 
