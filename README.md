@@ -49,14 +49,4 @@
 我喜欢边学习边整理知识，欢迎访问我的 [学习笔记仓库](https://github.com/GASEN1216/studyNotes)，一起交流、进步！
 
 
-### 📫 联系方式
-
-- **GitHub**: [GASEN1216](https://github.com/GASEN1216)
-- **Email**: *gasen1216@163.com*
-- **WeChat**: [GASEN](https://github.com/user-attachments/assets/ccde93e8-4f14-421c-80eb-d0393fd2e11b)
-
----
-
-
-
 > 🌟 **“手把青秧插满田，低头便见水中天。心地清净知始终，退步原来是向前”**
